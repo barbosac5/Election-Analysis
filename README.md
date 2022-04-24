@@ -39,7 +39,11 @@ The winner of the election was:
   
 
 ## Challenge Summary 
-  Using the Challenge code, I believe it is also completely possible to use this format to retrieev data fir any election. With the proper modifications, we can use Python and more specifically this code, to gather data that can be used in any election from the local level to even a presedential election. One way this can be used in something like the presidentail election is to first retireve a new CSV file that can contain the election data for a presidental election. With the new CSV file we can upload it and change the varaible around as well as rename the multiple variables containing county information to "state" variable such as "state_votes" or "largest_state_turnout".
+  Even though this code shows the results the committee was aasking for, I do believe it can be improved upon even more. An example of improvement can be in the form to gather specific data regarding information we did not retrieve, such as finding out how many people voted for a specific candidate per county. This can be done via an if statement where we can state if a candidate got a vote in a specific county, then add 1 to the candidate's name. With this modification, we can see if a candidate had a much alrger influence in a particular county and we can speculate reasons for why a ceratin candidate did well in a certain county (for example, the certain county can be the candidate's home town).
+  
+  
+  With more modifications, we can use Python and more specifically this code, to gather data that can be used in any election from the local level to even a presedential election. One way this can be used in something like the presidentail election is to first retireve a new CSV file that can contain the election data for a presidental election. With the new CSV file we can upload it and change the varaible around as well as rename the multiple variables containing county information to "state" variable such as "state_votes" or "largest_state_turnout".
+  
 
 
 ## Resources 
