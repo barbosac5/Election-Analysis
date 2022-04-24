@@ -1,7 +1,7 @@
 # Election-Analysis
 
 ## Project Overview
-For this analysis Tom (a member of the Colorado Board of Elections) and I retirieved data from an election audit for the United States COngressional precinct in Colorado. The objective of this Module was:
+For this analysis Tom (a member of the Colorado Board of Elections) and I retirieved data from an election audit for the United States Congressional precinct in Colorado. The objective of this Module was:
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who recieved votes.
@@ -27,10 +27,19 @@ Based on our analysis, in the election:
   - Raymon Anthony Doane received 3.1% of the votes with 11,606 number of votes
 -The winner of the election was:
   - Diana DeGette with the winning vote count of 272,892 votes  with a 73.8% of the vote.
+ 
 
 
 ## Challnege Overview 
+  For this challnege, I was tasked with using a set of starter code to find out more information about the congressional election. The election commission requested additional information such as:
+  -The voter turnout for each county
+  -The percentage of votes from each county out of the total count
+  -The county with the highest turnout 
 
-
+## Challenge Results
+According to the extra data I was tasked in retireving, the results are as follows:
+  -The county with the largest amount of votes was the city of Denver with 82.8% of votes with 306,055 number of votes.
+  
 
 ## Challenge Summary 
+  Using the Challenge code, I believe it is also completely possible to use this format to retrieev data fir any election. With the proper modifications, we can use Python and more specifically this code, to gather data that can be used in any election from the local level to even a presedential election. One way this can be used in something like the presidentail election is to first retireve a new CSV file that can contain the election data for a presidental election. With the new CSV file we can upload it and change the varaible around as well as rename the multiple variables containing county information to "state" variable such as "state_votes" or "largest_state_turnout".
