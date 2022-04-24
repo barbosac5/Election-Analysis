@@ -15,23 +15,27 @@
 3. The county with the highest turnout 
 
 
-## Summary 
-Based on our analysis, in the election:
--There were 369,711 total votes cast between three candidates. The candidates are as follows:
+## Results
+According to the extra data I was tasked in retireving, the results are as follows:
+There were 369,711 total votes cast across the three counties. 
+### County votes
+  -Jefferson county received 10.5% of the votes with 38,855 number of votes.
+  -Denver county received  82.8% of the votes with 306,055 number of votes.
+  -Arapahoe county received 6.7% of the votes with 24,801 number of votes. 
+  -The county with the largest amount of votes was the city of Denver with 82.8% of votes with 306,055 number of votes.
+
+### Candidates 
   - Charles Casper Stockham 
   - Diana DeGette
   - Raymon Anthony Doane
--The results are as follows:
+The results are as follows:
   - Chalres Casper Stockham received 23% of the votes with 85,213 number of votes.
   - Diana DeGette received 73.8% of the votes with 272,892 number of votes 
   - Raymon Anthony Doane received 3.1% of the votes with 11,606 number of votes
--The winner of the election was:
+The winner of the election was:
   - Diana DeGette with the winning vote count of 272,892 votes  with a 73.8% of the vote.
- 
 
-## Challenge Results
-According to the extra data I was tasked in retireving, the results are as follows:
-  -The county with the largest amount of votes was the city of Denver with 82.8% of votes with 306,055 number of votes.
+![Election_Results]
   
 
 ## Challenge Summary 
