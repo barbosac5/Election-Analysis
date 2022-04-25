@@ -45,6 +45,8 @@ The winner of the election was:
   With more modifications, we can use Python and more specifically this code, to gather data that can be used in any election from the local level to even a presedential election. One way this can be used in something like the presidentail election is to first retireve a new CSV file that can contain the election data for a presidental election. With the new CSV file we can upload it and change the varaible around as well as rename the multiple variables containing county information to "state" variable such as "state_votes" or "largest_state_turnout".
   
 ![Code](./Election-Analysis/Analysis/Python_Code_(1).pdf)
+![Code](./Election-Analysis/Analysis/Python_Code_(2).pdf)
+![Code](./Election-Analysis/Analysis/Python_Code_(3).pdf)
 
 ## Resources 
 -Data Source: election_results.csv
