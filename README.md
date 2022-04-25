@@ -18,16 +18,15 @@ Accodring to the data:
 There were 369,711 total votes cast across the three counties (Arapahoe, Denver, and Jefferson). 
 ##  The Votes
 Out of the 369,711 votes: 
--Jefferson county had 10.5% of the votes with 38,855 number of votes.
--Denver county had  82.8% of the votes with 306,055 number of votes.
--Arapahoe county had 6.7% of the votes with 24,801 number of votes. 
--The county with the largest amount of votes was the city of Denver with 82.8% of votes with 306,055 number of votes.
+1. Jefferson county had 10.5% of the votes with 38,855 number of votes.
+2. Denver county had  82.8% of the votes with 306,055 number of votes.
+3. Arapahoe county had 6.7% of the votes with 24,801 number of votes. 
+4. The county with the largest amount of votes was the city of Denver with 82.8% of votes with 306,055 number of votes.
 
 In this election, there were three candidates running. These candidates were:
   - Charles Casper Stockham 
   - Diana DeGette
   - Raymon Anthony Doane
-  - 
 The results are as follows:
   - Chalres Casper Stockham received 23% of the votes with 85,213 number of votes.
   - Diana DeGette received 73.8% of the votes with 272,892 number of votes 
