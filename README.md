@@ -16,7 +16,7 @@
 ## Results
 Accodring to the data: 
 There were 369,711 total votes cast across the three counties (Arapahoe, Denver, and Jefferson). 
-##  The Votes
+###  The Votes
 Out of the 369,711 votes: 
 1. Jefferson county had 10.5% of the votes with 38,855 number of votes.
 2. Denver county had  82.8% of the votes with 306,055 number of votes.
